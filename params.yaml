@@ -38,7 +38,6 @@ train:
         degree: [3, 5]
   model_path: models/model.joblib
 
-
 evaluate:
   reports_dir: reports
   metrics_file: 'metrics.json'
